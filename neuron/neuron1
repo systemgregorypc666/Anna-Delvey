@@ -1,0 +1,10 @@
+#include <stdio.h>
+
+   int main()
+   {
+         printf("hello world I'm Anna-Sorokin IA hernandez 14 it's an honor to meet you at c++");
+         return 0;
+    
+   
+  }
+    

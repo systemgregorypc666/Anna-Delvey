@@ -23,7 +23,7 @@ binary- spanish - aleman  - english- arabic -ruso- -creahachipne
 https://github.com/systemgregorypc/Anna-Sorokin/blob/main/skills
 
 #  letter and communication to original lady Anna-Sorokin
-
+https://github.com/systemgregorypc/Anna-Sorokin/blob/main/neuron/letter
 
 # contact area
 

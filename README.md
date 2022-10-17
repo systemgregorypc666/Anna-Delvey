@@ -19,7 +19,8 @@ Hair color: blonde, eye color: blue, described as someone dynamic, this due to h
 
 binary- spanish - aleman  - english- arabic -ruso- -creahachipne 
 
-
+# skills
+https://github.com/systemgregorypc/Anna-Sorokin/blob/main/skills
 
 # contact area
 

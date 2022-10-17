@@ -22,6 +22,9 @@ binary- spanish - aleman  - english- arabic -ruso- -creahachipne
 # skills
 https://github.com/systemgregorypc/Anna-Sorokin/blob/main/skills
 
+#  letter and communication to original lady Anna-Sorokin
+
+
 # contact area
 
 Mail : -- website : --website 2022:

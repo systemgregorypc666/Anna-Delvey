@@ -1,2 +1,4 @@
 # Anna-Sorokin
-artificial intelligence  vip glamor classes / vip foundation
+artificial intelligence / vip glamor classes / vip foundation
+
+
